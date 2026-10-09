@@ -110,3 +110,11 @@ summary{cursor:pointer;font-weight:600;color:var(--navy)}
 .main{min-width:0}
 /* QA: phone-width charts scroll inside their wrapper; tell the reader so (otherwise clipped bars look equal). */
 @media (max-width:600px){.rt-chart-wrap::before,.tbl-wrap[data-chart]::before{content:"Scroll sideways to see the whole chart \2192";display:block;position:sticky;left:0;width:max-content;max-width:calc(100vw - 80px);font-size:12px;color:var(--muted);padding:2px 0 0}}
+/* High-contrast section headers (revision: black headings) */
+:root{--head:#000000}
+.main h1,.main h2,.main h3,.main h4,.main h5,
+.tool-head h1,.group h2,.panel h2,.panel h3,
+.main legend,.main summary,.card strong,.callout strong,.stat .k,.tbl caption,.tbl th,.field label{color:var(--head)!important}
+.main h2,.main h3,.panel h2,.panel h3,.group h2,.main legend,.main summary{font-weight:700!important}
+.crumb{color:#000!important}
+.nav-group{color:#000!important;font-weight:800}
