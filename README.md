@@ -1,6 +1,6 @@
 # Verbatim to Signal Workbench
 
-Hands-on training tools for MedDRA coding, SMQ retrieval and safety surveillance — the companion workbench to the book *From Verbatim to Signal: MedDRA Coding, SMQs, and Safety Surveillance* by Abdulhafez Selim (Selim Medical Press, 2026).
+Hands-on training tools for MedDRA coding, SMQ retrieval and safety surveillance — the companion workbench to the book *From Verbatim to Signal: MedDRA Coding, SMQs, and Safety Surveillance* by Dr. Hafez Selim, MD, PhD (Selim Medical Press, 2026).
 
 **Live site:** https://abdu94-hash.github.io/verbatim-to-signal-workbench/
 
