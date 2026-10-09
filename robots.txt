@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdu94-hash.github.io/verbatim-to-signal-workbench/sitemap.xml
